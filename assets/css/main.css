@@ -16,11 +16,14 @@ button{
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
     font-family: 'Raleway', sans-serif;
+    text-align: center;
 }
- #form{
- 	text-align: center;
-    margin: 100 auto;
-	display: block;	
+ #form{	
     font-family: 'Raleway', sans-serif;
+    width: 200px;
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: left;
+    padding: 20px;
 }
  

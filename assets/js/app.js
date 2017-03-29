@@ -5,7 +5,7 @@ window.onload=function(){
 	})
 
 	document.getElementById('iniciar').addEventListener('click', function(){
-		window.location = 'iniciar.html' ;
+		window.location = 'sign.html' ;
 	})
 
 }
